@@ -37,6 +37,3 @@ _(Just in case you need it)_
 - Enter: **git push**
 - Enter proper GitHub credentials upon inquiry (password won't be visbile when typing)
 - Confirm that all changes have been pushed by navigating to http://github.com/"your-username-here"/pyBeginner
-
-
-Those are the basics, now go CODE!
